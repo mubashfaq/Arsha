@@ -1,2 +1,2 @@
 # Arsha
-Arsha clone in HTML, CSS, and JS
+Arsha clone in HTML, CSS, and JS.
